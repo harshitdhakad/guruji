@@ -3,6 +3,13 @@
   publish = "./dist/"
   command = "npm run build"
 
+[build.environment]
+  NAME = "Guru Ji"
+  PIC = "https://common-amethyst-f9gv5yj9.edgeone.app/Screenshot_20260610-083835.png"
+  NICKNAME = "Guruji"
+  HBD_MSG = "May your birthday be filled with joy and happiness"
+  OPEN_DATE = "2026-06-10"
+
 [template.environment]
   NAME = "Guru Ji"
   PIC = "https://common-amethyst-f9gv5yj9.edgeone.app/Screenshot_20260610-083835.png"
