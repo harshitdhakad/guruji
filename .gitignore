@@ -5,7 +5,7 @@ dist/
 *-safe.*
 temp/
 local/*
-!local/sample-pic.jpeg
+!local/sample-pic.jpg
 !local/sample-scroll.txt
 src/index.html
 
