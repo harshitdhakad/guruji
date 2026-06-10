@@ -1,0 +1,8 @@
+[build]
+  base = "./"
+  publish = "./dist/"
+  command = "npm run build"
+
+[template.environment]
+  NAME = "Guru Ji"
+  PIC = "D:\CapCut\harshit\Happy-Birthday-Card\local\sample-pic.jpeg"
