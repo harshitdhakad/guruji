@@ -8,7 +8,7 @@
   PIC = "sample-pic.jpg"
   NICKNAME = "Guruji"
   HBD_MSG = "आदरणीय गुरुवर्य,जन्मदिनस्य हार्दिकाः शुभकामनाः।"
-  OPEN_DATE = "2026-06-10"
+  OPEN_DATE = "2026-06-12"
 
 [template.environment]
   NAME = "Guru Ji"
